@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    color: #294970;
+}
+body {
+    font-family: Georgia;
+}
+
+.lesson {
+    background-color: #294970;
+    border-radius: 18px;
+    color: white;
+    padding: 12px
+}
+
+h2 {
+    margin: 13px;
+}
+
+.concept {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+
+.concept-title {
+    font-size: 20px;
+    margin: 8px;
+    text-align: center;
+    color: #294860;
+}
+
+.concept-description {
+    font-weight: lighter;
+    margin: 6px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
